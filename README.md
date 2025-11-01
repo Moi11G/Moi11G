@@ -9,19 +9,12 @@ Moi11G/Moi11G is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-
-[pagina_presentacion_tecnologica.md](https://github.com/user-attachments/files/23285582/pagina_presentacion_tecnologica.md)
-::: {.card role="main"}
-# Esta es mi pagina de Presentacion {#esta-es-mi-pagina-de-presentacion .glow}
-
-## ¡Hola! Soy Moises Gabriel Garay Ruiz
+¡Hola! Soy Moises Gabriel Garay Ruiz
 
 Soy un casi Ingeniero apasionado por la tecnología y la automatización
 de procesos. ¿Quién no querría automatizar sus procesos? jaja xd.
 
-## 💡 Mis Hobbies son
-
-\
+💡 Mis Hobbies son
 
 • Leer libros 📚
 
@@ -29,7 +22,6 @@ de procesos. ¿Quién no querría automatizar sus procesos? jaja xd.
 
 • Jugar Minecraft ⛏️
 
-\
 
 ## 🌐 Mis Redes Sociales
 
